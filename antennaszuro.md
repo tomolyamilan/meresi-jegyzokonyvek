@@ -211,14 +211,15 @@ Az összesített mérések és következtetések alapján a **Johansson 6700 Pro
 **Dátum:** 2024. 10. 07.
 
 
-Jelszint (dBu) |   
-                |                            *
-                |                           *  
-                |                          *
-                |              *           *
-                |             *  *  *      *
-                |   *         *
-                |   |   |    |  |  |  *   
-                -----------------------------------
-                          Csatornák (28, 31, 35, 41, 45, 48)  
-                                  Frekvencia (MHz)
+graph TD
+    A[Ch 28 MHz] -->|59 dBu| B[530 MHz]
+    C[Ch 31 MHz] -->|63 dBu| D[554 MHz]
+    E[Ch 35 MHz] -->|65 dBu| F[586 MHz]
+    G[Ch 41 MHz] -->|48 dBu| H[634 MHz]
+    I[Ch 45 MHz] -->|63 dBu| J[666 MHz]
+    K[Ch 48 MHz] -->|60 dBu| L[690 MHz]
+
+    %% Extra kapcsolatok a tengelyek illusztrálására
+    classDef axis fill:#f0f0f0,stroke:#333,stroke-width:2px;
+    class A,C,E,G,I,K axis;
+    class B,D,F,H,J,L axis;
