@@ -59,9 +59,9 @@ Feladata, hogy egy antenna segítségével először befogjuk az **Avasi adó to
 
 ![image](image/Blokvazlat_1.PNG)
 
-- **Iskra P-20 Antenna**: az RF jelek vételére
+- **Opticum Smart HD 550**: az RF jelek vételére
 - **Johansson 6700 Profiler**: az RF jelek erősítésére és szűrésére
-- **Metek HDD Spektrum Analizátor**: az erősített és szűrt jelek vizsgálatára
+- **Deviser S7200 Spektrum Analizátor**: az erősített és szűrt jelek vizsgálatára
 
 ---
 
@@ -117,14 +117,14 @@ A mérés során az alábbi problémák észlelhetők:
 
 - **Antenna elhelyezése**: Javasolt az antennát magasabb pozícióba telepíteni a jobb jelerősség érdekében, különösen az alacsonyabb frekvenciák esetében.
 - **Környezeti hatások minimalizálása**: További mérések során érdemes lenne tesztelni, hogyan befolyásolják a különböző környezeti feltételek (pl. időjárás, építészeti akadályok) a vételt.
-- **További tesztek**: Érdemes más antennatípusokat is tesztelni és összehasonlítani a jelenlegi Iskra P-20 antennával.
+- **További tesztek**: Érdemes más antennatípusokat is tesztelni és összehasonlítani a jelenlegi Opticum Smart HD 550 antennával.
 
 ---
 
 ## 10. Felhasznált Források
 
 1. **Johansson 6700 felhasználói kézikönyv** - A gyártó által biztosított dokumentáció az eszköz beállításairól.
-2. **Iskra P-20 antenna műszaki leírás** - Az antenna specifikációi és teljesítménye különböző frekvenciákon.
+2. **Opticum Smart HD 550 antenna műszaki leírás** - Az antenna specifikációi és teljesítménye különböző frekvenciákon.
 3. **Műholdas és földi adóállomások jellemzői** - Általános útmutató a városi adótornyok és sugárzott frekvenciák jellemzőiről.
 
 ---
@@ -209,3 +209,16 @@ Az összesített mérések és következtetések alapján a **Johansson 6700 Pro
 **Aláírás:** Erős Bence
 
 **Dátum:** 2024. 10. 07.
+
+
+Jelszint (dBu) |   
+                |                            *
+                |                           *  
+                |                          *
+                |              *           *
+                |             *  *  *      *
+                |   *         *
+                |   |   |    |  |  |  *   
+                -----------------------------------
+                          Csatornák (28, 31, 35, 41, 45, 48)  
+                                  Frekvencia (MHz)
