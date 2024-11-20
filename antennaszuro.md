@@ -206,6 +206,6 @@ Az összesített mérések és következtetések alapján a **Johansson 6700 Pro
 
 </details>
 
-**Aláírás:** Erős Bence
+**Aláírás:** Vad Levente
 
-**Dátum:** 2024. 10. 07.
+**Dátum:** 2024. 11. 13.
