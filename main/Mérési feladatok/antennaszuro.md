@@ -164,11 +164,11 @@ Az összesített mérések és következtetések alapján a **Johansson 6700 Pro
 
 <br>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/01.bmp"/>
+<img src=""/>
 
 <br>
 
-<img src="https://erosbence27.github.io/jegyzokonyv/image/02.bmp"/>
+<img src=""/>
 
 <br>
 
