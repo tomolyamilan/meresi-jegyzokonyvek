@@ -31,14 +31,15 @@ Antennák nyereségének összehasonlítása három vételi ponton
 | iskola mögötti parkoló | -58.3 dBm        | -48.9 dBm          | -50.5 dBm     |
 
 ## Értékelés
-- **Iskra P20**: [Rövid értékelés, például: "Stabil teljesítményt nyújtott a távolság növekedésével."]  
-- **Iskra P2845**: [Rövid értékelés, például: "Kiemelkedő jelerősség rövid távon, de csökkenés nagyobb távolság esetén."]  
+- **Iskra P20**: Stabil teljesítményt nyújtott a mind a 3 helyszínen  
+- **Iskra P2845**: Rövid értékelés, például: "Kiemelkedő jelerősség rövid távon, de csökkenés nagyobb távolság esetén.  
 - **Ikusi Flash HD C48**: [Rövid értékelés, például: "Kiválóan szerepelt hosszabb távolságon is."]  
 
 ## Következtetések
-- A mérések alapján az **[legjobban teljesítő antenna neve]** teljesít a legjobban a vizsgált vételi pontokon.  
+- A mérések alapján az **[Ikusi Flash HD C48]** teljesít a legjobban a vizsgált vételi pontokon.  
 - Az antennák teljesítményét befolyásolta a távolság és a környezeti zavarok mértéke.  
 - További mérések ajánlottak különböző környezeti feltételek között.
+- A mérések nem mutatnak számottevő eltéréseket mivel az Avasi adótoronyhoz közel helyezkedünk el 
 
 **Mérési jegyzőkönyvet készítette:** [Név]  
 **Dátum:** [Add meg a dátumot]
