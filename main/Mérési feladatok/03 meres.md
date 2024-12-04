@@ -1,1 +1,98 @@
+# Mérési Jegyzőkönyv
 
+## Téma
+Antennák nyereségének összehasonlítása három vételi ponton
+
+## Mérési adatok
+**Dátum:** 2024.12.04  
+**Helyszín:** V3 labor   
+**A mérést végezte:** Sándor Péter
+**Mérés célja:** Az antenna nyereség vizsgálata és összehasonlítása három különböző típusú antennával eltérő vételi pontokon.
+
+## Használt eszközök
+- Spektrum analizátor  
+- Koaxiális kábelek  
+- Állvány  
+- Mérőantennák:
+  - **1. Antenna:** Iskra P20  
+  - **2. Antenna:** Iskra P2845  
+  - **3. Antenna:** Ikusi Flash HD C48  
+
+## Mérési helyszínek és feltételek
+- A mérés három eltérő vételi ponton történt.  
+- Mindhárom antennát azonos körülmények között teszteltük.  
+- Miskolc Avasi adótoronyból fogtuk a jelet
+
+## Vételi pontok és mért adatok
+| Vételi pont |  Iskra P20 (dBm) | Iskra P2845 (dBm) | Ikusi Flash HD C48 (dBm) |
+|-------------|---------------------------|-----------------|-------------------|
+| 1.3.emelet               | [ dBm]        | [Y2 dBm]          | [Y3 dBm]     |
+| 2.V3 labor               | [Y1 dBm]        | [Y2 dBm]          | [Y3 dBm]     |
+| 3.iskola mögötti parkoló | [Y1 dBm]        | [Y2 dBm]          | [Y3 dBm]     |
+
+## Értékelés
+- **Iskra P20**: [Rövid értékelés, például: "Stabil teljesítményt nyújtott a távolság növekedésével."]  
+- **Iskra P2845**: [Rövid értékelés, például: "Kiemelkedő jelerősség rövid távon, de csökkenés nagyobb távolság esetén."]  
+- **Ikusi Flash HD C48**: [Rövid értékelés, például: "Kiválóan szerepelt hosszabb távolságon is."]  
+
+## Következtetések
+- A mérések alapján az **[legjobban teljesítő antenna neve]** teljesít a legjobban a vizsgált vételi pontokon.  
+- Az antennák teljesítményét befolyásolta a távolság és a környezeti zavarok mértéke.  
+- További mérések ajánlottak különböző környezeti feltételek között.
+
+**Mérési jegyzőkönyvet készítette:** [Név]  
+**Dátum:** [Add meg a dátumot]
+
+## 1. 3 emelet
+
+<details>
+<summary>Iskra P20</summary>
+![Iskra P20 - 3 emelet](path/to/iskra_p20_3emelet.jpg)
+</details>
+
+<details>
+<summary>Iskra P2845</summary>
+![Iskra P2845 - 3 emelet](path/to/iskra_p2845_3emelet.jpg)
+</details>
+<details>
+<summary>Ikusi Flash HD C48</summary>
+![Ikusi Flash HD C48 - 3 emelet](path/to/ikusi_flash_hd_c48_3emelet.jpg)
+</details>
+
+---
+
+## 2. V3 labo
+
+<details>
+<summary>Iskra P20</summary>
+![Iskra P20 - V3 labo](path/to/iskra_p20_v3labo.jpg)
+</details>
+
+<details>
+<summary>Iskra P2845</summary>
+![Iskra P2845 - V3 labo](path/to/iskra_p2845_v3labo.jpg)
+</details>
+
+<details>
+<summary>Ikusi Flash HD C48</summary>
+![Ikusi Flash HD C48 - V3 labo](path/to/ikusi_flash_hd_c48_v3labo.jpg)
+</details>
+
+---
+
+## 3. Folyosó
+
+<details>
+<summary>Iskra P20</summary>
+![Iskra P20 - Folyosó](path/to/iskra_p20_folyoso.jpg)
+</details>
+
+<details>
+<summary>Iskra P2845</summary>
+![Iskra P2845 - Folyosó](path/to/iskra_p2845_folyoso.jpg)
+</details>
+
+<details>
+<summary>Ikusi Flash HD C48</summary>
+![Ikusi Flash HD C48 - Folyosó](path/to/ikusi_flash_hd_c48_folyoso.jpg)
+</details>
