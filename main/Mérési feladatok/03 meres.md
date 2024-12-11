@@ -48,35 +48,35 @@ Antennák nyereségének összehasonlítása három vételi ponton
 
 <details>
 <summary>Iskra P20</summary>
-![Iskra P20 - 3 emelet](path/to/iskra_p20_3emelet.jpg)
+![Iskra P20 - 3 emelet](main/kepek/03/legkisebbemelet.jpg)
 </details>
 
 <details>
 <summary>Iskra P2845</summary>
-![Iskra P2845 - 3 emelet](path/to/iskra_p2845_3emelet.jpg)
+![Iskra P2845 - 3 emelet](main/kepek/03/kezepemelet.jpg)
 </details>
 <details>
 <summary>Ikusi Flash HD C48</summary>
-![Ikusi Flash HD C48 - 3 emelet](path/to/ikusi_flash_hd_c48_3emelet.jpg)
+![Ikusi Flash HD C48 - 3 emelet](main/kepek/03/nagyemelet.jpg)
 </details>
 
 ---
 
-## 2. V3 labo
+## 2. Udvar
 
 <details>
 <summary>Iskra P20</summary>
-![Iskra P20 - V3 labo](path/to/iskra_p20_v3labo.jpg)
+![Iskra P20 - V3 labo](main/kepek/03/legkisebbudvar.jpg)
 </details>
 
 <details>
 <summary>Iskra P2845</summary>
-![Iskra P2845 - V3 labo](path/to/iskra_p2845_v3labo.jpg)
+![Iskra P2845 - V3 labo](main/kepek/03/kozepudvar.jpg)
 </details>
 
 <details>
 <summary>Ikusi Flash HD C48</summary>
-![Ikusi Flash HD C48 - V3 labo](path/to/ikusi_flash_hd_c48_v3labo.jpg)
+![Ikusi Flash HD C48 - V3 labo](main/kepek/03/nagyudvar.jpg)
 </details>
 
 ---
@@ -85,15 +85,15 @@ Antennák nyereségének összehasonlítása három vételi ponton
 
 <details>
 <summary>Iskra P20</summary>
-![Iskra P20 - Folyosó](path/to/iskra_p20_folyoso.jpg)
+![Iskra P20 - Folyosó](main/kepek/03/legkisebbfolyoso.jpg)
 </details>
 
 <details>
 <summary>Iskra P2845</summary>
-![Iskra P2845 - Folyosó](path/to/iskra_p2845_folyoso.jpg)
+![Iskra P2845 - Folyosó](main/kepek/03/kezepfolyoso.jpg)
 </details>
 
 <details>
 <summary>Ikusi Flash HD C48</summary>
-![Ikusi Flash HD C48 - Folyosó](path/to/ikusi_flash_hd_c48_folyoso.jpg)
+![Ikusi Flash HD C48 - Folyosó](main/kepek/03/nagyfolyosó.jpg)
 </details>
