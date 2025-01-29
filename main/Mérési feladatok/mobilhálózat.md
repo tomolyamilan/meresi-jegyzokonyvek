@@ -38,7 +38,12 @@
 - **PC / Laptop 1** (DHCP tartományból)
 - **PC / Laptop 2** (DHCP tartományból)
 
-### 6. Routing Tábla
+### 6. Topológia
+
+  <img src="" alt="Topológia" />
+
+
+### 7. Routing Tábla
 | Célhálózat       | Maszk         | Next Hop       | Interface          | Eszköz |
 |------------------|--------------|---------------|--------------------|--------|
 | 0.0.0.0         | 0.0.0.0       | 192.168.88.1  | Mikrotik LHG18 LTE | Mikrotik LHG18 LTE |
@@ -47,7 +52,7 @@
 | 192.168.88.3    | 255.255.255.255 | 192.168.88.2 | Mikrotik nRay60 SLAVE | Mikrotik nRay60 SLAVE |
 | 192.168.88.4    | 255.255.255.255 | Direkt      | ASUS RT-AX58       | ASUS RT-AX58 Router |
 
-### 7. Összegzés és Következő Lépések
+### 8. Összegzés és Következő Lépések
 - Az elvégzett munka összefoglalása.
 - Kiemelt problémák és megoldási javaslatok.
 - Következő megbeszélés időpontjának és témájának meghatározása.
@@ -55,4 +60,4 @@
 ---
 
 **Aláírások:**  
-[Aláírók neve és beosztása]
+[Készítette: Vad Levente]
