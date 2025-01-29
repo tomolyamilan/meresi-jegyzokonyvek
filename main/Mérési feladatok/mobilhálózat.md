@@ -15,7 +15,6 @@
 - A szükséges infrastruktúra és technológiák kiválasztása.
 - A hálózati topológia meghatározása.
 - Kapcsolódási pontok és csomópontok tervezése.
-- Biztonsági és redundancia szempontok figyelembevétele.
 
 ### 3. Telepítési Fázis
 - Hardver- és szoftverkomponensek beüzemelése.
