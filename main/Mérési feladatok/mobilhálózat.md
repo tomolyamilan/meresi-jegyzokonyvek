@@ -70,5 +70,4 @@
 
 ---
 
-**Aláírások:**  
-[Készítette: Vad Levente]
+**Készítette: Vad Levente**  
