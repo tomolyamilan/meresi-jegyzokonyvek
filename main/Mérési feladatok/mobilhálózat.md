@@ -44,13 +44,13 @@
 
 
 ### 7. Routing Tábla
-| Célhálózat       | Maszk         | Next Hop       | Interface          | Eszköz |
-|------------------|--------------|---------------|--------------------|--------|
-| 0.0.0.0         | 0.0.0.0       | 192.168.88.1  | Mikrotik LHG18 LTE | Mikrotik LHG18 LTE |
-| 192.168.88.0/24 | 255.255.255.0 | Direkt        | ASUS RT-AX58       | ASUS RT-AX58 Router |
-| 192.168.88.2    | 255.255.255.255 | Direkt      | Mikrotik nRay60 MASTER | Mikrotik nRay60 MASTER |
-| 192.168.88.3    | 255.255.255.255 | 192.168.88.2 | Mikrotik nRay60 SLAVE | Mikrotik nRay60 SLAVE |
-| 192.168.88.4    | 255.255.255.255 | Direkt      | ASUS RT-AX58       | ASUS RT-AX58 Router |
+| Célhálózat       | Maszk         |  Interface          | Eszköz |
+|------------------|--------------|--------------------|--------|
+| ISP-tol DHCP    |              |  Mikrotik LHG18 LTE | Mikrotik LHG18 LTE |
+| DHCP 192.168.88.100-250/24 | 255.255.255.0      |   Wi-Fi      | Laptop   |
+| 192.168.88.2    | 255.255.255.0 |  Mikrotik nRay60 MASTER | Mikrotik nRay60 MASTER |
+| 192.168.88.3    | 255.255.255.0 |  Mikrotik nRay60 SLAVE | Mikrotik nRay60 SLAVE |
+| 192.168.88.4    | 255.255.255.0 |  ASUS RT-AX58       | ASUS RT-AX58 Router |
 
 ### 8. Összegzés és Következő Lépések
 - Az elvégzett munka összefoglalása.
