@@ -48,11 +48,10 @@
 
 
 ### 7. Mérések és Tesztelés
-- Hálózati teljesítmény és adatátviteli sebesség vizsgálata.
-- Jelkésleltetés és csomagvesztési arány elemzése.
-- Hibakeresési és diagnosztikai eljárások alkalmazása.
-- Minőségbiztosítási tesztek végrehajtása.
-
+|RSSI| RSRP | SINR | RSRQ | Eszköz |
+|--------|----------|--------------|--------------------|--------|
+| -54 dBm | -81dBm | 18dBm | -10dB   | Mikrotik LHG18 LTE |
+| 
 
 
 ### 8. Összegzés és Következő Lépések
