@@ -48,10 +48,21 @@
 
 
 ### 7. Mérések és Tesztelés
-|RSSI| RSRP | SINR | RSRQ | Eszköz |
-|--------|----------|--------------|--------------------|--------|
+
+----
+
+#### Mikrotik LHG18 LTE
+|RSSI| RSRP | SINR | RSRQ | 
+|--------|----------|--------------|--------------------|
 | -54 dBm | -81dBm | 18dBm | -10dB   | Mikrotik LHG18 LTE |
-| 
+
+---
+
+#### Mikrotik nRay60 
+| Signal | MCS | PHY Rate| RSSI | Távolság  | 
+|--------|----------|----------|---------|--------|
+| 90 | 7 |1925 Mbps  | -49dBm  |2.18m |  
+
 
 
 ### 8. Összegzés és Következő Lépések
