@@ -40,7 +40,7 @@
 
 ### 6. Topológia
 
-  <img src="" alt="Topológia" />
+  <img src="https://github.com/VLevente0/meresi-jegyzokonyvek/blob/add4f824a8f5d14e6b031365f025095937d17a66/main/kepek/mobilh%C3%A1l%C3%B3zat/Megnevezetlen%20diagram.drawio.png" alt="Topológia" />
 
 
 ### 7. Routing Tábla
