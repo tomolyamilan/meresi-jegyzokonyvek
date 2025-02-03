@@ -58,7 +58,7 @@ Vad Levente
 
 - **Ping teszt multicast IP címre**:
   - **Válaszidő (ms)**: _[érték]_
-  - **Csomagvesztés (%)**: _[érték]_
+  - **Csomagvesztés (%)**: 0
 
 - **Traceroute eredmény**:
   - **Útvonal**: _[útvonal adatok]_
