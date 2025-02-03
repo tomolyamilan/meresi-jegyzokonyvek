@@ -9,19 +9,18 @@ _**[Neved]**_
 
 ### 1. Használt eszközök
 
-- **Beltéri antenna**: _[Iskra P2845 Logper]_
-- **Fejállomás**: _[Lemco SCL-824CT]_
-- **Set-top box**: _[MAG IPTV]_
-- **Hálózati ezközök**: _[HP 2312 Procurve switch]_
+- **Beltéri antenna**: Iskra P2845 Logper
+- **Fejállomás**: Lemco SCL-824CT
+- **Set-top box**: MAG IPTV
+- **Hálózati ezközök**: HP 2312 Procurve switch
 
 ---
 
 ### 2. Beltéri Antenna Beállítása és Mérése
 
-- **Antenna helyzete**: _[DNY 233°]_
-- **Adótorony**: _[MiskolciTV]_
-**Mért értékek:**
-- **Jelszint**: _[52dBu]_
+- **Antenna helyzete**: DNY 233°
+- **Adótorony**: MiskolciTV
+- **Jelszint**: 52dBu
 - **Jel-zaj viszony (SNR) (dB)**: _[érték]_
 - **Multiplex frekvencia**: _[frekvencia]_
 - **Multiplex szimbólumráta**: _[szimbólumráta]_
