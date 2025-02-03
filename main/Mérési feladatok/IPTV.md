@@ -29,7 +29,7 @@ Vad Levente
 
 ---
 
-### 2. Fejállomás Mérések
+### 3. Fejállomás Mérések
 
 - **Fejállomás bemeneteire beérkező multiplexek**:
   - **Multiplex 1**: multiplex a
@@ -43,10 +43,10 @@ Vad Levente
 
 ---
 
-### 3. IPTV Stream és Multicast Konfigurálás
+### 4. IPTV Stream és Multicast Konfigurálás
 
-- **Multicast IP tartomány**: _[IP tartomány]_
-- **Multicast port**: _[port]_
+- **Multicast IP tartomány**: 239.50.50.1-239.50.50.39
+- **Multicast port**: 1234
 
 **Set-top box konfigurálása:**
 - **Multicast IP címek**: _[IP címek]_
@@ -54,7 +54,7 @@ Vad Levente
 
 ---
 
-### 4. Hálózati Tesztek
+### 5. Hálózati Tesztek
 
 - **Ping teszt multicast IP címre**:
   - **Válaszidő (ms)**: _[érték]_
@@ -69,7 +69,7 @@ Vad Levente
 
 ---
 
-### 5. IPTV Stream Elemzés (FFmpeg/Wireshark)
+### 6. IPTV Stream Elemzés (FFmpeg/Wireshark)
 
 - **FFmpeg stream elemzés**:
   - **Bitráta**: _[bitráta]_
@@ -82,7 +82,7 @@ Vad Levente
 
 ---
 
-### 6. Eredmények
+### 7. Eredmények
 
 - **Lock állapot**: [ ] Igen [ ] Nem
 - **Jelszint (dBμV)**: _[mért érték]_
@@ -93,7 +93,7 @@ Vad Levente
 
 ---
 
-### 7. Hőmérséklet és Időjárási Körülmények
+### 8. Hőmérséklet és Időjárási Körülmények
 
 - **Hőmérséklet**: _[hőmérséklet]_
 - **Szélsebesség**: _[szélsebesség]_
@@ -101,13 +101,12 @@ Vad Levente
 
 ---
 
-### 8. Aláírások
 
-- **Vizsgáztató aláírása**: ________________________
-- **Vizsgázó aláírása**: ________________________
+- **Készítette**: Vad Levente
 
 ---
 
 **Jegyzőkönyv zárása:**
 
 A mérések és a konfigurálás sikeresen befejeződtek, az IPTV stream és a fejállomás megfelelően beállításra került.
+4
