@@ -1,7 +1,7 @@
 # Távközlési Technikus Vizsga Jegyzőkönyv
 
 ## Vizsgázó Neve:
-_**[Neved]**_
+Vad Levente
 
 ## Vizsgafeladat: DVB-T jel fejállomásba küldése és IPTV rendszeren való kiadása
 
@@ -19,20 +19,23 @@ _**[Neved]**_
 ### 2. Beltéri Antenna Beállítása és Mérése
 
 - **Antenna helyzete**: DNY 233°
-- **Adótorony**: MiskolciTV
+- **Adótorony**: Miskolci avasi adótorony
 - **Jelszint**: 52dBu
-- **Jel-zaj viszony (SNR) (dB)**: _[érték]_
+- **Jel-zaj viszony (SNR) (dB)**: 
 - **Multiplex frekvencia**: _[frekvencia]_
 - **Multiplex szimbólumráta**: _[szimbólumráta]_
-- **Multiplex FEC**: _[FEC]_
+- **Multiplex**:
+
 
 ---
 
 ### 2. Fejállomás Mérések
 
 - **Fejállomás bemeneteire beérkező multiplexek**:
-  - **Multiplex 1**: _[adatok]_
-  - **Multiplex 2**: _[adatok]_
+  - **Multiplex 1**: multiplex a
+  - **Multiplex 2**: multiplex b
+  - **Multiplex 7**: Miskolc városi TV
+  - **Multiplex 8**: multiplex e 
 
 **Jel bevezetés mérése:**
 - **Jelszint (dBμV)**: _[érték]_
