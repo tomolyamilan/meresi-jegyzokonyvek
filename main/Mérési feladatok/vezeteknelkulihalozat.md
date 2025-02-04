@@ -26,28 +26,31 @@
 
 ## Tesztelés
 
-1.![IP beállítások lekérése](images/ip_settings.png)  
-2. Dobja el az aktuális IP-t!  
+1.IP beállítások lekérése
+![IP beállítások lekérése](images/ip_settings.png)  
+2.IP eldobása
    ![IP eldobása](images/drop_ip.png)  
-3. Új IP cím kérése!  
+3. Új IP kérés 
    ![Új IP kérés](images/request_new_ip.png)  
-4. Jelenítse meg a számítógépén a routing táblát!  
+4. Routing tábla megjelenítése  
    ![Routing tábla megjelenítése](images/routing_table.png)  
-5. Tesztelje le, hogy elérhető-e a microsoft.com server!  
+5. Microsoft elérhetőség teszt 
    ![Microsoft elérhetőség teszt](images/microsoft_ping.png)  
-6. Kövesse le a www.ipon.hu server felé vezető útvonalat!  
+6. www.ipon.hu server felé vezető útvonal lekövetése 
    ![Traceroute ipon.hu](images/traceroute_ipon.png)  
-7. Minden használt port listázása!  
+7. Portok listázása  
    ![Portok listázása](images/list_ports.png)  
-8. Jelenítse meg milyen hálózati kapcsolatok vannak!  
+8. Hálózati kapcsolatok 
    ![Hálózati kapcsolatok](images/network_connections.png)  
-9. Végezze el a DNS beállítások aktualizálását!  
+9. DNS beállítások aktualizálása 
    ![DNS beállítások](images/dns_update.png)  
-10. Jelenítse meg a csatolt hálózati meghajtókat!  
+10. Hálózati meghajtók 
     ![Hálózati meghajtók](images/network_drives.png)  
-11. Jelenítse meg a www.ipon.hu server tartománynév és IP címét!  
+11.www.ipon.hu server tartománynév és IP cím megjelenítése
     ![Ipon domain és IP](images/ipon_domain_ip.png)  
-12. Az idegen címek számára, FQDN megjelenítése  
+12. FQDN megjelenítése
     ![FQDN megjelenítés](images/fqdn_display.png)  
-13. Ping a kliensek között  
+13. Ping a kliensek között 
     ![Ping teszt](images/ping_clients.png)  
+14. DHCP teszt mobil eszközön
+      ![DHCp teszt](images/ping_clients.png)  
