@@ -1,8 +1,8 @@
 # Vezeték nélküli hálózat
 
 **Dátum:** 2025.02.04 <br>
-**Helyszín:** degem labor <br>
-**Készítette:** Vad Levente <br>
+**Helyszín:** Degem Labor <br>
+**Készítette:** Tomolya Milán <br>
 
 ## Hálózati Eszközök
 
@@ -18,8 +18,8 @@
 
 ## Hálózat kiépítsének lépései
 
-- 1.A topoógia kialakítása
-- 2.A soho router megfelelő beállítása
+- 1.A topológia alapján kialakítáni a hálózatot
+- 2.A soho router megfelelő beállítása, konfigurálása
 - 3.Az eszközök csatlakoztatása a vezeték nélküli hálózathoz
 - 4.Tesztelés
 
