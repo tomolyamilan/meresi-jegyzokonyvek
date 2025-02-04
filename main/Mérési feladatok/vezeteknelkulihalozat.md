@@ -26,31 +26,31 @@
 
 ## Tesztelés
 
-1.IP beállítások lekérése
+1.IP beállítások lekérése<br>
 ![IP beállítások lekérése](images/ip_settings.png)  
-2.IP eldobása
+2.IP eldobása<br>
    ![IP eldobása](images/drop_ip.png)  
-3. Új IP kérés 
+3. Új IP kérés <br>
    ![Új IP kérés](images/request_new_ip.png)  
-4. Routing tábla megjelenítése  
+4. Routing tábla megjelenítése  <br>
    ![Routing tábla megjelenítése](images/routing_table.png)  
-5. Microsoft elérhetőség teszt 
+5. Microsoft elérhetőség teszt <br>
    ![Microsoft elérhetőség teszt](images/microsoft_ping.png)  
-6. www.ipon.hu server felé vezető útvonal lekövetése 
+6. www.ipon.hu server felé vezető útvonal lekövetése <br>
    ![Traceroute ipon.hu](images/traceroute_ipon.png)  
-7. Portok listázása  
+7. Portok listázása  <br>
    ![Portok listázása](images/list_ports.png)  
-8. Hálózati kapcsolatok 
+8. Hálózati kapcsolatok <br>
    ![Hálózati kapcsolatok](images/network_connections.png)  
-9. DNS beállítások aktualizálása 
+9. DNS beállítások aktualizálása <br>
    ![DNS beállítások](images/dns_update.png)  
-10. Hálózati meghajtók 
+10. Hálózati meghajtók <br>
     ![Hálózati meghajtók](images/network_drives.png)  
-11.www.ipon.hu server tartománynév és IP cím megjelenítése
+11.www.ipon.hu server tartománynév és IP cím megjelenítése<br>
     ![Ipon domain és IP](images/ipon_domain_ip.png)  
-12. FQDN megjelenítése
+12. FQDN megjelenítése<br>
     ![FQDN megjelenítés](images/fqdn_display.png)  
-13. Ping a kliensek között 
+13. Ping a kliensek között <br>
     ![Ping teszt](images/ping_clients.png)  
-14. DHCP teszt mobil eszközön
+14. DHCP teszt mobil eszközön<br>
       ![DHCp teszt](images/ping_clients.png)  
