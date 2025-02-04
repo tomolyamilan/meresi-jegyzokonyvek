@@ -11,14 +11,22 @@
 - **Laptop** – Levono thinkpad, teszteléshez
 - **Telefon** – realme gt2 pro, teszteléshez
 
-## Hálózati Topológia
 
-![Topológia](images/ip_settings.png)  
+## Hálózati Topológia
+ 
+![Topológia](https://github.com/VLevente0/meresi-jegyzokonyvek/blob/bd62f13a4b8a0b66d23d1d3a7289ae72309e2e7a/main/kepek/vezeteknelkuli/topologia.png)
+
+## Hálózat kiépítsének lépései
+
+1.A topoógia kialakítása
+2.A soho router megfelelő beállítása
+3.Az eszközök csatlakoztatása a vezeték nélküli hálózathoz
+4.Tesztelés
+
 
 ## Tesztelés
 
-1. Kérje le a számítógépe IP beállításait!  
-   ![IP beállítások lekérése](images/ip_settings.png)  
+1.![IP beállítások lekérése](images/ip_settings.png)  
 2. Dobja el az aktuális IP-t!  
    ![IP eldobása](images/drop_ip.png)  
 3. Új IP cím kérése!  
@@ -43,12 +51,3 @@
     ![FQDN megjelenítés](images/fqdn_display.png)  
 13. Ping a kliensek között  
     ![Ping teszt](images/ping_clients.png)  
-
-## Megjegyzések
-
-*(Esetleges hibák, észrevételek vagy javaslatok leírása)*
-
-## Záradék
-
-A jegyzőkönyvet készítette és jóváhagyta:  
-*(Írd alá a neved és a beosztásod, ha szükséges)*
