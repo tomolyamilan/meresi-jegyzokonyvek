@@ -1,15 +1,15 @@
 # Vezeték nélküli hálózat
 
-**Dátum:** 2025.02.04
-**Helyszín:** degem labor 
-**Készítette:** Vad Levente
+**Dátum:** 2025.02.04 <br>
+**Helyszín:** degem labor <br>
+**Készítette:** Vad Levente <br>
 
 ## Hálózati Eszközök
 
-- **SOHO router** – Linksys WRT54GL
-- **Switch** – cisco catalyst 2950 switch
-- **Laptop** – Levono thinkpad, teszteléshez
-- **Telefon** – realme gt2 pro, teszteléshez
+- **SOHO router** – Linksys WRT54GL<br>
+- **Switch** – cisco catalyst 2950 switch<br>
+- **Laptop** – Levono thinkpad, teszteléshez<br>
+- **Telefon** – realme gt2 pro, teszteléshez<br>
 
 
 ## Hálózati Topológia
