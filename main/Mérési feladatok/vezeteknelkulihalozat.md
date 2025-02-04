@@ -19,8 +19,11 @@
 ## Hálózat kiépítsének lépései
 
 1.A topoógia kialakítása
+-
 2.A soho router megfelelő beállítása
+-
 3.Az eszközök csatlakoztatása a vezeték nélküli hálózathoz
+-
 4.Tesztelés
 
 
