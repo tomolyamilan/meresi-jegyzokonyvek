@@ -13,7 +13,7 @@
 
 ## Hálózati Topológia
 
-
+![Topológia](images/ip_settings.png)  
 
 ## Tesztelés
 
